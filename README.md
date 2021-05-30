@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Vishnubhotla Bharadwaj
 
+---
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBharadwaj6262)
+![Twitter Follow](https://img.shields.io/twitter/follow/Bharadwaj6262?label=people%20follow%20me%20on%20Twitter&style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Big_Limit_379?style=social)
 <!--
 **VishnubhotlaBharadwaj/VishnubhotlaBharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
