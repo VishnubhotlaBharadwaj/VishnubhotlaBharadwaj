@@ -2,8 +2,7 @@
 
 ---
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBharadwaj6262)
-![Twitter Follow](https://img.shields.io/twitter/follow/Bharadwaj6262?label=people%20follow%20me%20on%20Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bharadwaj6262?label=people%20follow%20me%20on%20Twitter&style=social)](https://twitter.com/Bharadwaj6262)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Big_Limit_379?style=social)
 
 I am a student studying B.Tech from Sastra University, Thanjavur. Always intrested to learn new technologies. I maintain my [Blog](https://bharadwaj.hashnode.dev/), where I used to write about the problems which I have solved. I spend a lot of time on [Twitter](https://twitter.com/Bharadwaj6262) mainly concentrating and tweeting about tech.!
