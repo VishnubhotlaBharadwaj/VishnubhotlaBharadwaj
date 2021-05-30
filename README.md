@@ -15,7 +15,10 @@ I am a student studying B.Tech from Sastra University, Thanjavur. Always intrest
 
 ---
 
-Latest Tweets
+Connect with ME
+
+
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="twitter logo" width="35" height="35"/>](https://vishnubhotlabharadwaj.github.io/ps/)                   [<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="twitter logo" width="35" height="35"/>](https://twitter.com/Bharadwaj6262) [<img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="twitter logo" width="35" height="35"/>](https://www.instagram.com/___bharadwaj__/) [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="twitter logo" width="35" height="35"/>](https://www.linkedin.com/in/v-d-v-bharadwaj-vishnubhotla-871006185/) 
 
 ---
 
