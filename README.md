@@ -25,11 +25,11 @@ Connect with ME
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top DataScience Blogs to follow in 2021](https://bharadwaj.hashnode.dev/top-datascience-blogs-to-follow-in-2021)
 - [Overwrite Bootstrap with CSS code](https://bharadwaj.hashnode.dev/overwrite-bootstrap-with-css-code)
 - [Python Open Source projects in Github](https://bharadwaj.hashnode.dev/python-open-source-projects-in-github)
 - [What's new in Flutter 2.2 !?](https://bharadwaj.hashnode.dev/whats-new-in-flutter-22)
 - [Turtle Race game in Python using Turtle class!](https://bharadwaj.hashnode.dev/turtle-race-game-in-python-using-turtle-class)
-- [Image modification using SimpleImage library!](https://bharadwaj.hashnode.dev/image-modification-using-simpleimage-library)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ [...more Blog Articles](https://bharadwaj.hashnode.dev/)
