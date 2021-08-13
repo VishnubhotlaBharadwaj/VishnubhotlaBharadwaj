@@ -25,11 +25,11 @@ Connect with ME
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top GitHub repositories to learn Data Science](https://bharadwaj.hashnode.dev/top-github-repositories-to-learn-data-science)
 - [Useful CSS units](https://bharadwaj.hashnode.dev/useful-css-units)
 - [Error vs Exception](https://bharadwaj.hashnode.dev/error-vs-exception)
 - [Write better functions in Python!!](https://bharadwaj.hashnode.dev/write-better-functions-in-python)
 - [Top DataScience Blogs to follow in 2021](https://bharadwaj.hashnode.dev/top-datascience-blogs-to-follow-in-2021)
-- [Overwrite Bootstrap with CSS code](https://bharadwaj.hashnode.dev/overwrite-bootstrap-with-css-code)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ [...more Blog Articles](https://bharadwaj.hashnode.dev/)
