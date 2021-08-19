@@ -25,11 +25,11 @@ Connect with ME
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Best Apps to Learn Coding](https://bharadwaj.hashnode.dev/8-best-apps-to-learn-coding)
 - [Top GitHub repositories to learn Data Science](https://bharadwaj.hashnode.dev/top-github-repositories-to-learn-data-science)
 - [Useful CSS units](https://bharadwaj.hashnode.dev/useful-css-units)
 - [Error vs Exception](https://bharadwaj.hashnode.dev/error-vs-exception)
 - [Write better functions in Python!!](https://bharadwaj.hashnode.dev/write-better-functions-in-python)
-- [Top DataScience Blogs to follow in 2021](https://bharadwaj.hashnode.dev/top-datascience-blogs-to-follow-in-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ [...more Blog Articles](https://bharadwaj.hashnode.dev/)
