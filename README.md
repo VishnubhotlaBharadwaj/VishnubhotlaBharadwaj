@@ -25,11 +25,11 @@ Connect with ME
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Data Science competition platforms](https://bharadwaj.hashnode.dev/top-data-science-competition-platforms)
 - [How to approach any Machine Learning problem](https://bharadwaj.hashnode.dev/how-to-approach-any-machine-learning-problem)
 - [Start your Kaggle journey today!](https://bharadwaj.hashnode.dev/start-your-kaggle-journey-today)
 - [8 Best Apps to Learn Coding](https://bharadwaj.hashnode.dev/8-best-apps-to-learn-coding)
 - [Top GitHub repositories to learn Data Science](https://bharadwaj.hashnode.dev/top-github-repositories-to-learn-data-science)
-- [Useful CSS units](https://bharadwaj.hashnode.dev/useful-css-units)
 <!-- BLOG-POST-LIST:END -->
 
 ✨ [...more Blog Articles](https://bharadwaj.hashnode.dev/)
